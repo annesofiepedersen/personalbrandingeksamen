@@ -1,0 +1,15 @@
+/* 
+Theme Name: Astra Child
+Theme URL: http://annesofiepedersen.com
+Description: Astra Child
+Theme Author: Anne Sofie Pedersen
+Author URL: http://annesofiepedersen.com
+Template: astra 
+Version: 1.0.0 
+Text Domain: astra-child
+*/
+
+
+p, .footer, .form, .menu_tekst { 
+font-family: 'Montserrat', sans-serif;
+  }
